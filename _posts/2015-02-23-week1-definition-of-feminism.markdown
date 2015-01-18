@@ -4,23 +4,22 @@ title:  "Week 1:Definition of Feminism"
 date:   2015-02-23 10:56:58
 categories: jekyll update
 ---
-
-##Definition of Feminism 
-
-###Date: Mon Feb 23
-This week we'll be discusssing the definition of feminism and what it means to different people.
+To kick off the series, we'll be discusssing the what the word "feminism" means, why it's often a loaded word, and why our generation has struggled to define the term for ourselves.
 
 ####Discussion Topics
 
-* What is your definition of feminism?
-* Do you think we live in a post-feminist society?
-* What do you think are the current challenges facing women.
+* What is your personal definition of feminism?
+* Do you (or do you not) identify as a feminist?
+* Why do you think so young women (including many [female celebrities](http://www.cosmopolitan.com/politics/news/a28510/misconceptions-about-feminism/)) are rejecting the term? 
 
-####This week's featured book:
+####This week's must reads:
+
+* ["Feminism (n.):Plural"](https://books.google.com/books?id=o7vABAAAQBAJ&pg=PT9&lpg=PT9&dq=Feminism+%28n.%29:Plural+introduction+by+Roxane+Gay&source=bl&ots=9ttNIpx7Gc&sig=zo__vdygrf2QgJM8ilFnIHCH4bY&hl=en&sa=X&ei=oAK8VIL_HJPCsATKuIKQDw&ved=0CC0Q6AEwAg#v=onepage&q&f=false) introduction by Roxane Gay from *Bad Feminist*
+* ["Not My Mother's Hose"](https://books.google.com/books?id=5LYiBQAAQBAJ&lpg=PA88&ots=GyPQ1xf1_f&dq=not%20my%20mother's%20hose%20by%20courtney%20e.%20martin&pg=PA89#v=onepage&q&f=false) essay by Courtney E. Martin from *Click: When We Knew We Were Feminists*, pages 89-93
+* ["Word and Deed"](https://books.google.com/books?id=5LYiBQAAQBAJ&lpg=PA88&ots=GyPQ1xf1_f&dq=not%20my%20mother's%20hose%20by%20courtney%20e.%20martin&pg=PA191#v=onepage&q&f=false) essay by J. Courtney Sullivan from *Click: When We Knew We Were Feminists*, pages 191-197
 
 ####Additional content to read/watch: 
 
-* Emma Watson UN Speech (transcript)
-* Roxane Gay Essay
-* [Courtney Martin Ted Talk on Reinventing Feminism](https://www.ted.com/talks/courtney_martin_reinventing_feminism)
-* Click essays
+* [Watch](https://www.ted.com/talks/courtney_martin_reinventing_feminism) Blogger Courtney Martin's TED Talk on Reinventing Feminism
+*  [Watch](https://www.youtube.com/watch?v=p-iFl4qhBsE) Goodwill Ambassador for UN Women, Emma Watson's Speech about gender equality. Here is the full [transcript](http://sociology.about.com/od/Current-Events-in-Sociological-Context/fl/Full-Transcript-of-Emma-Watsons-Speech-on-Gender-Equality-at-the-UN.htm). Read more about her [HeForShe](http://www.heforshe.org) initiative, which aims to get men and boys to pledge to join the feminist fight for gender equality.
+

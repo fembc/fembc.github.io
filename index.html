@@ -4,13 +4,21 @@ layout: default
 
 <div class="home">
 
-<center><h1>The Feminist Discussion Group</h1></center>
+<center>
 
+<h1>Feminist Book Club</h1>
+<img src="http://www.degreescout.com/wp-content/uploads/2010/05/girlpower.jpg">
+<!-- <img src="http://i1.ytimg.com/vi/eyTQDX-ItiM/maxresdefault.jpg"> -->
 
-  <h1 class="page-heading">Posts</h1>
+<!-- <img src="http://engineeringworks.tamu.edu/wp-content/uploads/2010/05/05-12-10-barbie-the-computer-engineer.jpg">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
+<img src="http://www.megdesk.com/blog/wp-content/uploads/2010/02/computer_engineer_barbie_revised.jpg">
+ -->
+</center>
+  <h1 class="page-heading">Discussions</h1>
+
+ <ul class="post-list">
+    {% for post in site.posts reversed %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
