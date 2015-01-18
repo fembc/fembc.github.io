@@ -10,7 +10,7 @@ To kick off the series, we'll be discusssing the what the word "feminism" means,
 
 * What is your personal definition of feminism?
 * Do you (or do you not) identify as a feminist?
-* Why do you think so young women (including many [female celebrities](http://www.cosmopolitan.com/politics/news/a28510/misconceptions-about-feminism/)) are rejecting the term? 
+* Why do you think so many young women (including many [female celebrities](http://www.cosmopolitan.com/politics/news/a28510/misconceptions-about-feminism/)) are rejecting the term? 
 
 ####This week's must reads:
 
