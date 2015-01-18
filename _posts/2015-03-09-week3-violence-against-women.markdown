@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3: Violence Against Women  in the North America"
+title:  "Week 3: Violence Against Women in North America"
 date:   2015-03-09 10:56:58
 categories: jekyll update
 ---
