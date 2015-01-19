@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1:Definition of Feminism"
+title:  "Week 1: Definition of Feminism"
 date:   2015-02-23 10:56:58
 categories: jekyll update
 ---
