@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Jan 2015 19:02:14 -0500</pubDate>
-    <lastBuildDate>Sun, 18 Jan 2015 19:02:14 -0500</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2015 15:43:53 -0500</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2015 15:43:53 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,6 +21,12 @@
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;additional-content-to-readwatch&quot;&gt;Additional content to read/watch:&lt;/h4&gt;
+
+&lt;h4 id=&quot;quotes&quot;&gt;Quotes:&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“There’s a special place in hell for women who don’t help other women.” 
+― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 20 Apr 2015 06:56:58 -0400</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/04/20/week8-female-friendships.html</link>
@@ -43,7 +49,11 @@
   &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Birth-Pill-Crusaders-Reinvented-Revolution/dp/0393073726/ref=sr_1_1?ie=UTF8&amp;amp;qid=1421530782&amp;amp;sr=8-1&amp;amp;keywords=history+of+the+pill&quot;&gt;&lt;em&gt;History of the Pill&lt;/em&gt;&lt;/a&gt; by Jonathan Eig&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;additional-content-to-readwatch&quot;&gt;Additional content to read/watch:&lt;/h4&gt;
+&lt;h4 id=&quot;additional-content-to-readwatchlisten&quot;&gt;Additional content to read/watch/listen:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.npr.org/2015/01/24/379530251/u-s-once-had-universal-child-care-but-rebuilding-it-wouldnt-be-easy&quot;&gt;Listen&lt;/a&gt;“U.S. Once Had Universal Care, but Rebuilding It Won’t Be Easy” from NPR&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Apr 2015 06:56:58 -0400</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/04/13/week7-reproductive-rights.html</link>
@@ -99,7 +109,7 @@
 &lt;h4 id=&quot;this-weeks-must-read&quot;&gt;This week’s must read:&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986&quot;&gt;Give and Take&lt;/a&gt; by Adam Grant&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986&quot;&gt;&lt;em&gt;Give and Take&lt;/em&gt;&lt;/a&gt; by Adam Grant&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;additional-content-to-readwatch&quot;&gt;Additional content to read/watch:&lt;/h4&gt;
@@ -108,6 +118,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.wired.com/2014/11/feminist-hacker-barbie-just-little-girls-need/&quot;&gt;“Feminist Hacker Barbie is just what our girls need”&lt;/a&gt; by Robert McMillan at &lt;em&gt;Wired&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;Incoming salaries for recent MBA grads (men vs. women)&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Mon, 30 Mar 2015 06:56:58 -0400</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/03/30/week5-women-workplace-part2.html</link>
@@ -133,7 +144,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Men-Explain-Things-Rebecca-Solnit/dp/1608463869&quot;&gt;“Men Explain Things to Me”&lt;/a&gt; essay from &lt;em&gt;Men Explain Things to Me&lt;/em&gt; by Rebecca Solnit&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947&quot;&gt;Lean In&lt;/a&gt; by Sheryl Sandberg&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947&quot;&gt;&lt;em&gt;Lean In: Women, Work, and the Will to Lead&lt;/em&gt;&lt;/a&gt; by Sheryl Sandberg&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;additional-content-to-readwatch&quot;&gt;Additional content to read/watch:&lt;/h4&gt;
@@ -143,7 +154,21 @@
   &lt;li&gt;&lt;a href=&quot;http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html&quot;&gt;“Speaking While Female”&lt;/a&gt; Sheryl Sandberg and Adam Grand on Why Women Stay Quiet at Work from their “Women At Work” column in the &lt;em&gt;New York Times&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hbr.org/2014/12/rethink-what-you-know-about-high-achieving-women&quot;&gt;Read&lt;/a&gt; “Rethink What You ‘Know’ About High-Achieving Women” by Robin J. Ely, Pamela Stone, and Colleen Ammerman from the &lt;em&gt;Harvard Business Review&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.mcsweeneys.net/articles/mansplaining-mansplaining-a-man-explains-mansplaining&quot;&gt;Read&lt;/a&gt; “Mansplaning Mansplaing: A Man Explains Mansplaning” by Michael Mayberry from &lt;em&gt;McSweeneys&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wired.com/2015/01/state-of-the-union-women/&quot;&gt;Read&lt;/a&gt; “A Key Issue in Obama’s State of the Union: Advocating for Women at Work” by Issie Lapowsky from &lt;em&gt;Wired&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;quotes&quot;&gt;Quotes:&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“We compromise our career goals to make room for partners and children who may not even exist yet” 
+&lt;strong&gt;― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;blockquote&gt;
+
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;“Careers are a jungle gym, not a ladder.” 
+&lt;strong&gt;― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 23 Mar 2015 06:56:58 -0400</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/03/23/week4-women-workplace-part1.html</link>
@@ -270,8 +295,13 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/courtney_martin_reinventing_feminism&quot;&gt;Watch&lt;/a&gt; Blogger Courtney Martin’s TED Talk on Reinventing Feminism&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=p-iFl4qhBsE&quot;&gt;Watch&lt;/a&gt; Goodwill Ambassador for UN Women, Emma Watson’s Speech about gender equality. Here is the full &lt;a href=&quot;http://sociology.about.com/od/Current-Events-in-Sociological-Context/fl/Full-Transcript-of-Emma-Watsons-Speech-on-Gender-Equality-at-the-UN.htm&quot;&gt;transcript&lt;/a&gt;. Read more about her &lt;a href=&quot;http://www.heforshe.org&quot;&gt;HeForShe&lt;/a&gt; initiative, which aims to get men and boys to pledge to join the feminist fight for gender equality.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/film/2015/jan/23/emma-watson-at-davos-women-need-to-be-equal-participants&quot;&gt;Watch&lt;/a&gt; Emma Watson’s 2015 speech at Davos about gender equality.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;quote&quot;&gt;Quote:&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Currently, only 24% of women in the United States say that they consier themseles feminists, yet when offered a more specific definition of feminism-“A feminist is someone who believes in the social, political, and economic equality of the sexes”-the percentage of women who agree rises to 65%.- &lt;strong&gt;Sheryl Sandberg, Lean In:  Women, Work, and the Will to Lead&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 23 Feb 2015 05:56:58 -0500</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/02/23/week1-definition-of-feminism.html</link>

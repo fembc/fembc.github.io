@@ -1,7 +1,8 @@
-
-
-
-###Books to Buy:
+---
+layout: page
+title: Books To Buy
+permalink: /books/
+---
 *  [*Bad Feminist*](http://www.amazon.com/Bad-Feminist-Essays-Roxane-Gay/dp/0062282719/ref=sr_1_1?s=books&ie=UTF8&qid=1422217783&sr=1-1&keywords=bad+feminist) by Roxane Gay
 *  [*Men Explain Things to Me*](http://www.amazon.com/Men-Explain-Things-Rebecca-Solnit/dp/1608463869) by Rebecca Solnit
 * [We Should All Be Feminists](http://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X/ref=sr_1_1?s=books&ie=UTF8&qid=1422217832&sr=1-1&keywords=we+should+all+be+feminists) by Chiamana Ngozi Adiche
