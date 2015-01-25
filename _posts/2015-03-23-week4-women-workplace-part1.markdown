@@ -25,8 +25,8 @@ categories: jekyll update
 ####Quotes:
 >“We compromise our career goals to make room for partners and children who may not even exist yet” 
 **― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead**
-
-</br>
-
+>
+>>
+>
 > “Careers are a jungle gym, not a ladder.” 
 **― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead**
