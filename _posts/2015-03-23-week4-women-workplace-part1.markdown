@@ -13,7 +13,7 @@ categories: jekyll update
 ####This week's must reads:
 
 * ["Men Explain Things to Me"](http://www.amazon.com/Men-Explain-Things-Rebecca-Solnit/dp/1608463869) essay from *Men Explain Things to Me* by Rebecca Solnit
-* [Lean In](http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947) by Sheryl Sandberg
+* [*Lean In: Women, Work, and the Will to Lead*](http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947) by Sheryl Sandberg
 
 ####Additional content to read/watch: 
 
