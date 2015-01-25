@@ -21,3 +21,8 @@ categories: jekyll update
 * ["Speaking While Female"](http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html) Sheryl Sandberg and Adam Grand on Why Women Stay Quiet at Work from their "Women At Work" column in the *New York Times*
 * [Read](https://hbr.org/2014/12/rethink-what-you-know-about-high-achieving-women) "Rethink What You 'Know' About High-Achieving Women" by Robin J. Ely, Pamela Stone, and Colleen Ammerman from the *Harvard Business Review*
 * [Read](http://www.mcsweeneys.net/articles/mansplaining-mansplaining-a-man-explains-mansplaining) "Mansplaning Mansplaing: A Man Explains Mansplaning" by Michael Mayberry from *McSweeneys*
+
+####Quotes:
+>“We compromise our career goals to make room for partners and children who may not even exist yet” 
+**― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead**
+

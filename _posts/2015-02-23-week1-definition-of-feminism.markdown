@@ -23,3 +23,5 @@ To kick off the series, we'll be discusssing the what the word "feminism" means,
 * [Watch](https://www.ted.com/talks/courtney_martin_reinventing_feminism) Blogger Courtney Martin's TED Talk on Reinventing Feminism
 *  [Watch](https://www.youtube.com/watch?v=p-iFl4qhBsE) Goodwill Ambassador for UN Women, Emma Watson's Speech about gender equality. Here is the full [transcript](http://sociology.about.com/od/Current-Events-in-Sociological-Context/fl/Full-Transcript-of-Emma-Watsons-Speech-on-Gender-Equality-at-the-UN.htm). Read more about her [HeForShe](http://www.heforshe.org) initiative, which aims to get men and boys to pledge to join the feminist fight for gender equality.
 
+####Quote:
+>Currently, only 24% of women in the United States say that they consier themseles feminists, yet when offered a more specific definition of feminism-"A feminist is someone who believes in the social, political, and economic equality of the sexes"-the percentage of women who agree rises to 65%.- **Sheryl Sandberg, Lean In**

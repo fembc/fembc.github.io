@@ -11,3 +11,7 @@ categories: jekyll update
 
 
 ####Additional content to read/watch:
+
+####Quotes:
+>“There's a special place in hell for women who don't help other women.” 
+― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead

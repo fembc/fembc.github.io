@@ -17,3 +17,4 @@ categories: jekyll update
 
 * ["Feminist Hacker Barbie is just what our girls need"](http://www.wired.com/2014/11/feminist-hacker-barbie-just-little-girls-need/) by Robert McMillan at *Wired*
 * Incoming salaries for recent MBA grads (men vs. women)
+
