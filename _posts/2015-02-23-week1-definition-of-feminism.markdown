@@ -25,4 +25,4 @@ To kick off the series, we'll be discusssing the what the word "feminism" means,
 *  [Watch](http://www.theguardian.com/film/2015/jan/23/emma-watson-at-davos-women-need-to-be-equal-participants) Emma Watson's 2015 speech at Davos about gender equality.
 
 ####Quote:
->Currently, only 24% of women in the United States say that they consier themseles feminists, yet when offered a more specific definition of feminism-"A feminist is someone who believes in the social, political, and economic equality of the sexes"-the percentage of women who agree rises to 65%.- **Sheryl Sandberg, Lean In**
+>Currently, only 24% of women in the United States say that they consier themseles feminists, yet when offered a more specific definition of feminism-"A feminist is someone who believes in the social, political, and economic equality of the sexes"-the percentage of women who agree rises to 65%.- **Sheryl Sandberg, Lean In:  Women, Work, and the Will to Lead**
