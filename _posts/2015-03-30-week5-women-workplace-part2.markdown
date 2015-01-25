@@ -11,7 +11,7 @@ categories: jekyll update
 
 ####This week's must read:
 
-* [Give and Take](http://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986) by Adam Grant
+* [*Give and Take*](http://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986) by Adam Grant
 
 ####Additional content to read/watch: 
 
