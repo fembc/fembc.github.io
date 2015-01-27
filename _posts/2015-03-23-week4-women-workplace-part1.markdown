@@ -31,3 +31,7 @@ categories: jekyll update
 >
 > “Careers are a jungle gym, not a ladder.” 
 **― Sheryl Sandberg, Lean In: Women, Work, and the Will to Lead**
+>
+>>
+>
+>"Of course, nothing helps families make ends meet like higher wages. That's why this Congress still needs to pass a law that makes sure a woman is paid the same as a man for doing the same work. Really. It's 2015. It's time."-**President Obama, State of the Union Speech 2015**
