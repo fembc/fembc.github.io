@@ -23,6 +23,7 @@ categories: jekyll update
 * [Read](http://www.mcsweeneys.net/articles/mansplaining-mansplaining-a-man-explains-mansplaining) "Mansplaning Mansplaing: A Man Explains Mansplaning" by Michael Mayberry from *McSweeneys*
 * [Read](http://www.wired.com/2015/01/state-of-the-union-women/) "A Key Issue in Obama’s State of the Union: Advocating for Women at Work" by Issie Lapowsky from *Wired*
 * [Read](http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html) "What Silicon Valley Thinks of Women" by Nina Burleigh from *Newsweek*
+* [Read](http://www.amazon.com/Innovating-Women-Changing-Face-Technology-ebook/dp/B00NIYQK8G/ref=sr_1_1?ie=UTF8&qid=1422637992&sr=8-1&keywords=Innovating+Women) *Innovating Women* by Vivek Wadhwa and Farai Chideya
 
 
 
