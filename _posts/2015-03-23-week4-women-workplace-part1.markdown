@@ -6,8 +6,10 @@ categories: jekyll update
 ---
 
 ####Discussion Topics
-* What do you see as being your biggest hurtle as a woman at work?
-* Do you think women hold themselves back at work?
+* Do you think of your workplace in terms of "men" and "women"?
+* What do you see as being your biggest hurdle as a woman at work?
+* Do you think women hold themselves back from promotions, raises and responsibility vs. their male counterparts?
+* What are some of your postive experiences working with men? And negative ones?
 * Have you even been "mansplained" to?
 
 ####This week's must reads:
@@ -21,10 +23,7 @@ categories: jekyll update
 * ["Speaking While Female"](http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html) Sheryl Sandberg and Adam Grand on Why Women Stay Quiet at Work from their "Women At Work" column in the *New York Times*
 * [Read](https://hbr.org/2014/12/rethink-what-you-know-about-high-achieving-women) "Rethink What You 'Know' About High-Achieving Women" by Robin J. Ely, Pamela Stone, and Colleen Ammerman from the *Harvard Business Review*
 * [Read](http://www.mcsweeneys.net/articles/mansplaining-mansplaining-a-man-explains-mansplaining) "Mansplaning Mansplaing: A Man Explains Mansplaning" by Michael Mayberry from *McSweeneys*
-* [Read](http://www.wired.com/2015/01/state-of-the-union-women/) "A Key Issue in Obama’s State of the Union: Advocating for Women at Work" by Issie Lapowsky from *Wired*
 * [Read](http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html) "What Silicon Valley Thinks of Women" by Nina Burleigh from *Newsweek*
-* [Read](http://www.amazon.com/Innovating-Women-Changing-Face-Technology-ebook/dp/B00NIYQK8G/ref=sr_1_1?ie=UTF8&qid=1422637992&sr=8-1&keywords=Innovating+Women) *Innovating Women* by Vivek Wadhwa and Farai Chideya
-
 
 
 ####Quotes:
