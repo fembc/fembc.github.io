@@ -12,7 +12,7 @@ categories: jekyll update
 ####This week's must read:
 
 * [*History of the Pill*](http://www.amazon.com/Birth-Pill-Crusaders-Reinvented-Revolution/dp/0393073726/ref=sr_1_1?ie=UTF8&qid=1421530782&sr=8-1&keywords=history+of+the+pill) by Jonathan Eig
-* ["Facebook's 'Egg Freezing' Perk Rekindles Debate On Role Of Women At The Company"](http://www.businessinsider.com/afp-egg-freezing-controversial-new-benefit-in-the-us-workplace-2014-10)
+* ["Facebook's 'Egg Freezing' Perk Rekindles Debate On Role Of Women At The Company"](http://www.businessinsider.com/afp-egg-freezing-controversial-new-benefit-in-the-us-workplace-2014-10) via Business Insider
 
 ####Additional content to read/watch/listen:
 
