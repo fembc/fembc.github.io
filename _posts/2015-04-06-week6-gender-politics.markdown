@@ -15,7 +15,7 @@ categories: jekyll update
 
 * "We Think Therefore We Are" & "Backwards in High Heels" essays from [*Delusions of Gender*](http://www.amazon.com/Delusions-Gender-Society-Neurosexism-Difference/dp/0393340244) by Cordelia Fine
 * ["End of Men"](http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/308135/) by Hanna Rosin from the *Atlantic*
-* "Chapter 1: The Differences" ["Brain Sex"](http://www.amazon.com/Brain-Sex-Difference-Between-Women/dp/0385311834/ref=sr_1_1?) by Anne Moir and David Jessel
+* "Chapter 1: The Differences" [*Brain Sex*](http://www.amazon.com/Brain-Sex-Difference-Between-Women/dp/0385311834/ref=sr_1_1?) by Anne Moir and David Jessel
 
 
 ####Additional content to read/watch: 
