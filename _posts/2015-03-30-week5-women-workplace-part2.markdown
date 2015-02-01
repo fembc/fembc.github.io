@@ -20,6 +20,8 @@ categories: jekyll update
 
 * ["Feminist Hacker Barbie is just what our girls need"](http://www.wired.com/2014/11/feminist-hacker-barbie-just-little-girls-need/) by Robert McMillan at *Wired* (For referece: original version of the story ["Barbie book about programming tells girls they need boys to code for them"](http://www.dailydot.com/geek/barbie-engineer-book-girls-game-developers/))
 * ["Trust in 'Karma'"](http://mashable.com/2014/10/09/microsoft-ceo-women-karma-raises/) via Mashable
+* [*Innovating Women*](http://www.amazon.com/Innovating-Women-Changing-Face-Technology-ebook/dp/B00NIYQK8G/ref=sr_1_1?ie=UTF8&qid=1422637992&sr=8-1&keywords=Innovating+Women) by Vivek Wadhwa and Farai Chideya
+* ["A Key Issue in Obama’s State of the Union: Advocating for Women at Work"](http://www.wired.com/2015/01/state-of-the-union-women/) by Issie Lapowsky from *Wired*
 * ["When Talking About Bias Backfires"](http://www.nytimes.com/2014/12/07/opinion/sunday/adam-grant-and-sheryl-sandberg-on-discrimination-at-work.html) by Sheryl Sandberg and Adam Grant
 * ["Study: Girls outperform boys in math and science all over the world"](http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/#) via VentureBeat
 
