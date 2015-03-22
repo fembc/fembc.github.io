@@ -21,7 +21,7 @@ categories: jekyll update
 
 
 ####Additional content to read/watch: 
-* [Watch](http://www.ted.com/talks/jackson_katz_violence_against_women_it_s_a_men_s_issue?language=en) Jackson Katz TED Talk Violence Against Women
+* [Watch](https://www.youtube.com/watch?v=KTvSfeCRxe8) Jackson Katz TED Talk Violence Against Women
 * [Read](http://www.phillymag.com/news/2015/03/18/member-of-penn-states-kappa-delta-rho-defends-fraternity/) "Member of Penn State’s Kappa Delta Rho Defends Fraternity" via Philly Mag
 * [Read](http://gothamist.com/2014/09/12/nypd_woman_walking_in_clinton_hill.php) "NYPD: Woman Walking In Clinton Hill Sexually Assaulted Twice in One Hour" from the *Gothamist*
 * [Read](http://time.com/100542/the-sexual-assault-crisis-on-american-campuses/) "The Sexual Assault Crisis on American Campuses" from *TIME*
