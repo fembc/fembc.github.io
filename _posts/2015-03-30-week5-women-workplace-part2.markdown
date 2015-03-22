@@ -23,4 +23,4 @@ categories: jekyll update
 * ["Trust in 'Karma'"](http://mashable.com/2014/10/09/microsoft-ceo-women-karma-raises/) via Mashable
 * ["When Talking About Bias Backfires"](http://www.nytimes.com/2014/12/07/opinion/sunday/adam-grant-and-sheryl-sandberg-on-discrimination-at-work.html) by Sheryl Sandberg and Adam Grant
 * ["Study: Girls outperform boys in math and science all over the world"](http://venturebeat.com/2015/01/27/study-girls-outperform-boys-in-math-and-science-all-over-the-world/#) via VentureBeat
-* [Coding Like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce) via Medium
+* ["Coding Like a Girl"](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce) via Medium
