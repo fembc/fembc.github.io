@@ -9,4 +9,4 @@ permalink: /books/
 * [*Lean In: Women, Work, and the Will to Lead*](http://www.amazon.com/Lean-In-Women-Work-Will/dp/0385349947) by Sheryl Sandberg
 *  [*Give and Take*](http://www.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986) by Adam Grant
 * [*Delusions of Gender*](http://www.amazon.com/Delusions-Gender-Society-Neurosexism-Difference/dp/0393340244) by Cordelia Fine
-* [*History of the Pill*](http://www.amazon.com/Birth-Pill-Crusaders-Reinvented-Revolution/dp/0393073726/ref=sr_1_1?ie=UTF8&qid=1421530782&sr=8-1&keywords=history+of+the+pill) by Jonathan Eig
+* [*The Birth of the Pill*](http://www.amazon.com/Birth-Pill-Crusaders-Reinvented-Revolution/dp/0393073726/ref=sr_1_1?ie=UTF8&qid=1421530782&sr=8-1&keywords=history+of+the+pill) by Jonathan Eig
