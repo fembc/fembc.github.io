@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 8: Cultural Myths Behind Female Friendships"
+title:  "Week 7: Cultural Myths Behind Female Friendships"
 date:   2015-04-20 10:56:58
 categories: jekyll update
 ---

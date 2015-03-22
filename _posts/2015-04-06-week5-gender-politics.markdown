@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 6: Gender Politics"
+title:  "Week 5: Gender Politics"
 date:   2015-04-06 10:56:58
 categories: jekyll update
 ---
