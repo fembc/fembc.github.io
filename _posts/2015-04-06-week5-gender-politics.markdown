@@ -12,7 +12,7 @@ categories: jekyll update
 * [*Delusions of Gender*](http://www.amazon.com/Delusions-Gender-Society-Neurosexism-Difference/dp/0393340244)
  by Cordelia Fine
  * ["End of Men"](http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/308135/) by Hanna Rosin from the *Atlantic*
- * ["I Don't Belong Here"](http://www.amazon.com/Brain-Sex-Difference-Between-Women/dp/0385311834/ref=sr_1_1?) essay from *Delusions of Gender* by Cordelia Fine
+ * ["I Don't Belong Here"](http://www.amazon.com/Delusions-Gender-Society-Neurosexism-Difference/dp/0393340244) essay from *Delusions of Gender* by Cordelia Fine
 
 ####Additional content to read/watch: 
 
