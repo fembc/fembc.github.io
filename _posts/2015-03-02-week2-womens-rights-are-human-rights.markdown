@@ -14,7 +14,7 @@ This week we'll be discusssing women's rights from an international perspective.
 ####This week's featured book:
 
 * [*We Should All Be Feminists*](http://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X/ref=sr_1_4?ie=UTF8&qid=1421605848&sr=8-4&keywords=chimamanda+ngozi+adichie) 
- by Chiamana Ngozi Adiche
+ by Chimamanda Ngozi Adichie
  
 ####Additional content to read/watch: 
 
