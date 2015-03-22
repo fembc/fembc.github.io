@@ -23,7 +23,6 @@ categories: jekyll update
 ####Additional content to read/watch: 
 * [Watch](https://www.youtube.com/watch?v=KTvSfeCRxe8) Jackson Katz TED Talk Violence Against Women
 * [Read](http://www.phillymag.com/news/2015/03/18/member-of-penn-states-kappa-delta-rho-defends-fraternity/) "Member of Penn State’s Kappa Delta Rho Defends Fraternity" via Philly Mag
-* [Read](http://gothamist.com/2014/09/12/nypd_woman_walking_in_clinton_hill.php) "NYPD: Woman Walking In Clinton Hill Sexually Assaulted Twice in One Hour" from the *Gothamist*
 * [Read](http://time.com/100542/the-sexual-assault-crisis-on-american-campuses/) "The Sexual Assault Crisis on American Campuses" from *TIME*
 * [Read](http://www.vice.com/read/inside-anonymouss-operation-to-out-rehtaeh-parsonss-rapists) "Inside Anonymous's Operation to Out Rehtaeh Parsons's Rapists" from *Vice*
 * [Read](http://www.nydailynews.com/news/national/ma-lik-richmond-convicted-steubenville-rape-case-returns-football-team-article-1.1900655) "Ma'lik Richmond, convicted in Stuebenville rape case, returns to football team"from *NY Daily News*
